@@ -15,7 +15,7 @@
 
 ### **1️⃣ Клонируй репозиторий**  
 ```bash
-git clone https://github.com/ТВОЙ_ГИТ/okx-orderbook-collector.git
+git clone git@github.com:Ilyas909/okx-orderbook-collector.git
 cd okx-orderbook-collector
 ```
 
